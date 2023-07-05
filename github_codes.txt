@@ -1,5 +1,9 @@
- git add .
+x git add .
 git status 
 git commit -m ""
 git remote add origin URL
 git push origin master
+ TO CLONE SOMEONES PROJECT INTO OUR REPOSITORY
+ FORK IT
+AND TO DOWNLOAD INTO OUR MACHINE 
+GIT CLONE URL
