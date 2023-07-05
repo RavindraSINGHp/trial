@@ -1,0 +1,19 @@
+1 cd  for changing directories                  cd directoryName
+2 touch  for creating files                      touch fileName
+3 mkdir  for creating directories                mkdir directoryName
+4 rm     for removing file                         rm fileName
+5 rm -r  for removing directories                     rm -r directoryName
+6 rm *   for removing all files at once                    rm *
+7 chmod  read-4 write -2 no-1  for providing permission to a users   chmod 666 filename
+8 ls     list content in a directory
+9 ls -l  permissions will be shown
+10 cp    copy file                                    cp filename destination
+11 mv    remove/relocate file                         mv filename destinatio
+12~/     home directory 
+13 ~/name(press tab)    to find directory name by using only initial letters of names
+14 sudo su   for root   
+15 find . -type f -name "*.txt"
+16 cat filename |tr a-z A-Z > newfilename
+17 grep -wirc/l "name" ./*.txt   to find name in all text files
+18 sort filename
+sort -r filename
